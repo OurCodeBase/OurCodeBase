@@ -18,21 +18,15 @@
 - 📫 How to reach me **telegrambot.h@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/harshvairagi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto&theme=dark" alt="harshvairagi" height="30" width="40" /></a>
-<a href="https://instagram.com/aspandapo" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="aspandapo" height="30" width="40" /></a>
-<a href="https://gitlab.com/OurCodeBase" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gitlab&theme=dark" alt="OurCodeBase" height="30" width="40" /></a>
-<a href="https://replit.com/@harshvairagi" target="blank"><img align="center" src="https://skillicons.dev/icons?i=replit&theme=dark" alt="harshvairagi" height="30" width="40" /></a>
-</p>
+
+[![devto](https://skillicons.dev/icons?i=devto)](https://dev.to/harshvairagi)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/aspandapo)
+[![gitlab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/OurCodeBase)
+[![replit](https://skillicons.dev/icons?i=replit)](https://replit.com/@harshvairagi)
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img name="languages" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,go,py,vim,lua&theme=dark"/><br>
-    <img name="frontends" src="https://skillicons.dev/icons?i=react,bootstrap,materialui,tailwind&theme=dark"/><br>
-    <img name="backends" src="https://skillicons.dev/icons?i=nodejs,expressjs,npm,django,nextjs&theme=dark"/><br>
-    <img name="libraries" src="https://skillicons.dev/icons?i=mongo,git,linux,vite&theme=dark"/><br>
-  </a>
+<p align="left">
+  <img name="languages" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,go,py,vim,lua,react,bootstrap,materialui,tailwind,nodejs,expressjs,npm,django,nextjs,mongo,git,github,githubactions,linux&theme=dark&perline=5"/>
 </p>
 
 ![OurCodeBase's Stats](https://github-readme-stats.vercel.app/api?username=OurCodeBase&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
