@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **neovim, nodejs, code-editor, bash-sdk**
 
-- 📫 How to reach me **telegrambot.h@gmail.com**
+- 📫 How to reach me **harshb7839@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -29,6 +29,16 @@
   <img name="languages" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,go,py,vim,lua,react,bootstrap,materialui,tailwind,nodejs,expressjs,npm,django,nextjs,mongo,git,github,githubactions,linux&theme=dark&perline=5"/>
 </p>
 
-![OurCodeBase's Stats](https://github-readme-stats.vercel.app/api?username=OurCodeBase&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+<h3 align="left">Code Editors I fimiliar with:</h3>
+<p align="left">
+  <img name="editors" src="https://skillicons.dev/icons?i=neovim,vscode,codepen,atom&theme=dark"/><br>
+</p>
 
-![OurCodeBase's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OurCodeBase&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+<h3 align="left">Platforms I fimiliar with:</h3>
+<p align="left">
+  <img name="platforms" src="https://skillicons.dev/icons?i=debian,ubuntu,kali,mint,windows&theme=dark"/><br>
+</p>
+
+<h3 align="left">OurCodeBase's Stats:</h3>
+
+![OurCodeBase's Stats](https://github-readme-stats.vercel.app/api?username=OurCodeBase&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
