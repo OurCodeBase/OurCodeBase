@@ -29,7 +29,7 @@
   <img name="languages" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,go,py,vim,lua,react,bootstrap,materialui,tailwind,nodejs,expressjs,npm,django,nextjs,mongo,git,github,githubactions,linux&theme=dark&perline=5"/>
 </p>
 
-<h3 align="left">Code Editors I fimiliar with:</h3>
+<h3 align="left">Code editors I fimiliar with:</h3>
 <p align="left">
   <img name="editors" src="https://skillicons.dev/icons?i=neovim,vscode,codepen,atom&theme=dark"/><br>
 </p>
