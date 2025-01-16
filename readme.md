@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [terabox-node](https://github.com/OurCodeBase/terabox-node)
 
-- 🌱 I’m currently learning **phantom, puppeteer , mongo, next**
+- 🌱 I’m currently learning **postgres, react-native , puppeteer, next**
 
 - 👯 I’m looking to collaborate on [code-editor](https://github.com/OurCodeBase/code-editor)
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img name="languages" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,go,py,vim,lua,react,bootstrap,materialui,tailwind,nodejs,expressjs,npm,django,nextjs,mongo,git,github,githubactions,linux&theme=dark&perline=5"/>
+  <img name="languages" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,go,py,vim,lua,react,bootstrap,materialui,tailwind,nodejs,expressjs,npm,django,nextjs,postgres,mysql,git,github,githubactions,linux&theme=dark&perline=5"/>
 </p>
 
 <h3 align="left">Code editors I fimiliar with:</h3>
