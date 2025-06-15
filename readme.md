@@ -24,17 +24,17 @@
 [![gitlab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/OurCodeBase)
 [![replit](https://skillicons.dev/icons?i=replit)](https://replit.com/@harshvairagi)
 
-<h3 align="left">Languages, frameworks and libraries:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img name="languages" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,go,py,vim,lua,react,bootstrap,materialui,tailwind,nodejs,expressjs,npm,django,nextjs,postgres,mysql,git,github,githubactions,linux&theme=dark&perline=5"/>
 </p>
 
-<h3 align="left">Code editors I have experience with:</h3>
+<h3 align="left">Code editors I familiar with:</h3>
 <p align="left">
   <img name="editors" src="https://skillicons.dev/icons?i=neovim,vscode,codepen,atom&theme=dark"/><br>
 </p>
 
-<h3 align="left">Platforms I have experience with:</h3>
+<h3 align="left">Platforms I familiar with:</h3>
 <p align="left">
   <img name="platforms" src="https://skillicons.dev/icons?i=debian,ubuntu,kali,mint,windows&theme=dark"/><br>
 </p>
