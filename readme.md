@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm hαrsh vαirαgi</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [gana4u.com](https://gana4u.online)
+- 🔭 I’m currently working on [script-ai](https://github.com/OurCodeBase/script-ai)
 
-- 🌱 I’m currently learning **react-native, cybersecurity, reverse-engineering**
+- 🌱 I’m currently learning **react-native, nestjs, reverse-engineering**
 
 - 👯 I’m looking to collaborate on [code-editor](https://github.com/OurCodeBase/code-editor)
 
@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img name="languages" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,go,py,vim,lua,react,bootstrap,materialui,tailwind,nodejs,expressjs,npm,django,nextjs,postgres,mysql,git,github,githubactions,linux&theme=dark&perline=5"/>
+  <img name="languages" src="https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,ts,go,py,vim,lua,react,bootstrap,materialui,tailwind,nodejs,expressjs,npm,django,nextjs,postgres,mysql,git,github,githubactions,linux&theme=dark&perline=5"/>
 </p>
 
 <h3 align="left">Code editors I familiar with:</h3>
