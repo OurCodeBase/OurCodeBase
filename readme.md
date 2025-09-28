@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [code-editor](https://github.com/OurCodeBase/code-editor)
 
-- 🤝 I’m looking for help with [terabox-node](https://github.com/OurCodeBase/terabox-node)
+- 🤝 I’m looking for help with [terabox-api](https://github.com/OurCodeBase/terabox-api)
 
 - 👨‍💻 All of my projects are available at [https://github.com/OurCodeBase](https://github.com/OurCodeBase)
 
